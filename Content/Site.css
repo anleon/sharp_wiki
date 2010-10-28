@@ -162,12 +162,16 @@ ul#menu li a
     line-height: 2.8em;
     background-color: #e8eef4;
     color: #034af3;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
 }
 
 ul#menu li a:hover
 {
     background-color: #fff;
     text-decoration: none;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
 }
 
 ul#menu li a:active
