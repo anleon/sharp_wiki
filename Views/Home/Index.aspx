@@ -7,6 +7,6 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: ViewData["Message"] %></h2>
     <p>
-        Nu börjar vi bygga Wiki med C# på MVC.
+        Nu börjar vi bygga Wiki med C# på MVC. Jag ändrat lite på raden
     </p>
 </asp:Content>
