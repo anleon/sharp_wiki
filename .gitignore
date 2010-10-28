@@ -1,0 +1,10 @@
+bin/*
+App_Data/*
+obj/*
+Scripts/*
+Properties/*
+Global.asax
+Global.asax.cs
+*.config
+Wiki_test.csproj
+Wiki_test.csproj.user
