@@ -3,3 +3,8 @@ c:\users\tanja\documents\visual studio 2010\Projects\Wiki_test\Wiki_test\bin\Wik
 c:\users\tanja\documents\visual studio 2010\Projects\Wiki_test\Wiki_test\obj\Debug\ResolveAssemblyReference.cache
 c:\users\tanja\documents\visual studio 2010\Projects\Wiki_test\Wiki_test\obj\Debug\Wiki_test.dll
 c:\users\tanja\documents\visual studio 2010\Projects\Wiki_test\Wiki_test\obj\Debug\Wiki_test.pdb
+C:\Documents and Settings\mnordin\Mina dokument\Visual Studio 2010\Projects\sharp_wiki\bin\Wiki_test.dll
+C:\Documents and Settings\mnordin\Mina dokument\Visual Studio 2010\Projects\sharp_wiki\bin\Wiki_test.pdb
+C:\Documents and Settings\mnordin\Mina dokument\Visual Studio 2010\Projects\sharp_wiki\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mnordin\Mina dokument\Visual Studio 2010\Projects\sharp_wiki\obj\Debug\Wiki_test.dll
+C:\Documents and Settings\mnordin\Mina dokument\Visual Studio 2010\Projects\sharp_wiki\obj\Debug\Wiki_test.pdb
