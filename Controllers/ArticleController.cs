@@ -26,6 +26,7 @@ namespace Wiki_test.Controllers
 
         public ActionResult Details(int id)
         {
+
             return View();
         }
 
@@ -34,6 +35,7 @@ namespace Wiki_test.Controllers
 
         public ActionResult Create()
         {
+
             return View();
         } 
 
